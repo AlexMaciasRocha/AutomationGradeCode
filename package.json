@@ -1,0 +1,22 @@
+{
+  "name": "automationgradecode",
+  "version": "1.0.0",
+  "description": "Automation Code to be Graded",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMaciasRocha/AutomationGradeCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMaciasRocha/AutomationGradeCode/issues"
+  },
+  "homepage": "https://github.com/AlexMaciasRocha/AutomationGradeCode#readme",
+  "dependencies": {
+    "nightwatch": "^1.0.19"
+  }
+}
