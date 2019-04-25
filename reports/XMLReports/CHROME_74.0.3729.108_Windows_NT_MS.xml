@@ -5,9 +5,17 @@
 
   <testsuite name="MS"
     errors="0" failures="0" hostname="" id="" package="MS" skipped="0"
-    tests="1" time="12.97" timestamp="">
+    tests="1" time="112.4" timestamp="">
   
-    <testcase name="Test LinkedIn" classname="MS" time="12.97" assertions="1">
+    <testcase name="Test LinkedIn" classname="MS" time="112.4" assertions="5">
+
+    
+
+    
+
+    
+
+    
 
     
     </testcase>
