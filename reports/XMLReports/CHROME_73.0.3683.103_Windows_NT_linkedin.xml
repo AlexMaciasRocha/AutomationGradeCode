@@ -5,9 +5,11 @@
 
   <testsuite name="linkedin"
     errors="1" failures="0" hostname="" id="" package="linkedin" skipped="0"
-    tests="1" time="104.1" timestamp="">
+    tests="1" time="13.85" timestamp="">
   
-    <testcase name="Test LinkedIn" classname="linkedin" time="104.1" assertions="3">
+    <testcase name="Test LinkedIn" classname="linkedin" time="13.85" assertions="4">
+
+    
 
     
 
