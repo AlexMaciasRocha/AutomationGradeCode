@@ -24,7 +24,7 @@ module.exports = {
          .assert.containsText('div[data-grid=col-2]', "21-40 de ")
          .click('li[data-label="Página 3"]')
          .assert.containsText('div[data-grid=col-2]', "41-60 de ")
-         .pause(1000000)
+         .pause(1000)
          .end();
        }
  };
