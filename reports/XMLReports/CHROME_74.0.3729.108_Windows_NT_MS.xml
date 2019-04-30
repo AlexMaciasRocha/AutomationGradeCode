@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites errors="0"
-            failures="0"
+            failures="1"
             tests="1">
 
   <testsuite name="MS"
-    errors="0" failures="0" hostname="" id="" package="MS" skipped="0"
-    tests="1" time="1016" timestamp="">
+    errors="0" failures="1" hostname="" id="" package="MS" skipped="0"
+    tests="1" time="15.82" timestamp="">
   
-    <testcase name="Test LinkedIn" classname="MS" time="1016" assertions="11">
+    <testcase name="Test LinkedIn" classname="MS" time="15.82" assertions="9">
 
     
 
@@ -23,13 +23,10 @@
 
     
 
-    
+      <failure message="Testing if element &lt;div[data-grid=col-2]&gt; contains text: &#34;1-20 de 1,030,000 resultados&#34; in 1000 ms. - expected [0;32m&#34;1-20 de 1,030,000 resultados&#34;[0m but got: [0;31m&#34;1-20 de 569,000 resultados&#34;[0m">    at Object.Test LinkedIn (C:\Users\alejandro.macias\Desktop\SDET\AutomationGradeCode\tests\MS.js:22:18)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
 
-    
-
-    
-
-    
+    <failure message="    at Object.Test LinkedIn (C:\Users\alejandro.macias\Desktop\SDET\AutomationGradeCode\tests\MS.js:22:18)">    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
     </testcase>
   
 
